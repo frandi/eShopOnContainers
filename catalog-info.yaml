@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: eShopOnContainers
+  annotations:
+    github.com/project-slug: frandi/eShopOnContainers
+spec:
+  type: other
+  lifecycle: unknown
+  owner: frandi
